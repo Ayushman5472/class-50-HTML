@@ -1,0 +1,29 @@
+h1{
+    color:black
+}
+h2{
+    color:red
+}
+p{
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align:center;
+}
+body{
+
+    background-image: linear-gradient(to bottom,Blue, purple)
+}
+.firstClass{
+    border: solid;
+    border-color: burlywood;
+    background-image: linear-gradient(to bottom, Blue, lightBlue)
+
+} 
+.socialMedia{
+    border:solid;
+    border-color: brown;
+    border-style: ridge;
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-image: linear-gradient(to bottom,Blue, purple)
+}
